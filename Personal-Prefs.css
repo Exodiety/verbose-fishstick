@@ -1,6 +1,4 @@
 div{
-  border-style : solid;
-  border-width : 2px;
-  border-color : salmon;
-  text-color : eggshell;
+  border: 2px solid black;
+  border-radius: 5%;
 }
